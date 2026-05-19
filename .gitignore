@@ -1,0 +1,56 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+.env.local
+*.env.*
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Testing
+.coverage
+htmlcov/
+.coverage.*
+.nox/
+.tox/
+
+# Dependency management
+pip-log.txt
+pipenv.lock
+Pipfile.lock
+requirements.txt.bak
+
+# Runtime
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
+
+# Shell
+*.sh.bak
+*.bash_history
+*.zsh_history
+```
