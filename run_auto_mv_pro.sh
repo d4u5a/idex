@@ -30,7 +30,7 @@ fi
 echo "🚀 Starting automatic music video generation..."
 echo ""
 
-python3 auto_music_video_pro.py -m ./music -c ./clips -o ./output
+python3 auto_mv_pro.py -m ./music -c ./clips -o ./output
 
 echo ""
 echo "✅ Done! Generated videos are in ./output/"
